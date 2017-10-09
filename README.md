@@ -5,7 +5,7 @@ Demo could be found on www.woodenleaves.com/PubMed.html
 
 PubMed_Scraping.py: 
 
-Utilize Selenium, BeautifulSoup, Requests; Multiprocessing for speeding up web scraping; MongoDB checks existing records.
+Utilize Selenium, BeautifulSoup, Requests; Multiprocessing to speed up web scraping; MongoDB checks existing records.
 
 PubMed.ipynb: 
 
