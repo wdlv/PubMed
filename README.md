@@ -1,12 +1,21 @@
 # PubMed
-web scrape PubMed database and visualize paper information
 
-Demo could be found on www.woodenleaves.com/PubMed.html
+## Introduction:
 
-PubMed_Scraping.py: 
+Web scraping script was created to extract articles information from PubMed database https://www.ncbi.nlm.nih.gov/pubmed/.
 
-Utilize Selenium, BeautifulSoup, Requests; Multiprocessing to speed up web scraping; MongoDB checks existing records.
+Information are stored in MongoDB first then extracted to conduct data preprcoessing, manipulation and visualizaiton. More information could be found on http://woodenleaves.com/pages/pubmed.html
 
-PubMed.ipynb: 
+## 1. PubMed_Scraping.py: 
+
+### Tools:
+
+Python(Selenium, BeautifulSoup, Requests, Multiprocessing, Pandas, pymongo, re, bokeh, matplotlib)
+
+MongoDB
+
+ECharts.js
+
+## 2. PubMed.ipynb: 
 
 Data preprocessing, statistical analysis and data visualizaton
