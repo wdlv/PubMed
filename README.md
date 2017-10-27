@@ -19,3 +19,7 @@ ECharts.js
 ## 2. PubMed.ipynb: 
 
 Data preprocessing, statistical analysis and data visualizaton
+
+## 3. Demo
+
+![demo](https://github.com/woodenleaves/PubMed/raw/master/pubmed.png)
